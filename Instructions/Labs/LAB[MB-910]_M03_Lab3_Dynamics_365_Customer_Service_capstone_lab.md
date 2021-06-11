@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 3.3： Dynamics 365 Customer Service 巅峰课程实验室'
     module: '模块 3： 了解 Dynamics 365 Customer Service 的基础知识'
