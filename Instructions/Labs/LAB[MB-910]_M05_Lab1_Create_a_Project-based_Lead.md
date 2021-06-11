@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 5.1： 创建基于项目的潜在客户'
     module: '模块 5： 学习 Dynamics 365 Project Operations 的基础知识'
