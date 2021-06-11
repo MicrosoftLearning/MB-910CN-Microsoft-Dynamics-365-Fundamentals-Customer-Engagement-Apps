@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示： 使用 Dynamics 365 Sales'
     module: '模块 2： 学习 Dynamics 365 Sales 的基础知识'
