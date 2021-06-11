@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 4.2： 在 Dynamics 365 Field Service 中计划项'
     module: '模块 4： 学习 Dynamics 365 Field Service 的基础知识'

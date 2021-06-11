@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 2.3： Dynamics 365 Sales 巅峰课程实验室'
     module: '模块 2： 学习 Dynamics 365 Sales 的基础知识'

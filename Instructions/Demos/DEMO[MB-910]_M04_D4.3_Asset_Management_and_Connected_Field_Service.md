@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示： 资产管理和 Connected Field Service'
     module: '模块 4： 了解 Dynamics 365 Customer Service 的基础知识'

@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示： 创建采购订单'
     module: '模块 4： 学习 Dynamics 365 Field Service 的基础知识'

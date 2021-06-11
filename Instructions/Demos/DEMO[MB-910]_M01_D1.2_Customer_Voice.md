@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示： Customer Voice'
     module: '模块 1： 学习 Dynamics 365 Marketing 的基础知识'
