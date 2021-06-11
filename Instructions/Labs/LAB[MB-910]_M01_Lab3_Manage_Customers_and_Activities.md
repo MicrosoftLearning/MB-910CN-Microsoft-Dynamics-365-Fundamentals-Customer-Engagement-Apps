@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 1.3： 管理客户和活动'
      module: '模块 1： 学习 Dynamics 365 Marketing 的基础知识'
