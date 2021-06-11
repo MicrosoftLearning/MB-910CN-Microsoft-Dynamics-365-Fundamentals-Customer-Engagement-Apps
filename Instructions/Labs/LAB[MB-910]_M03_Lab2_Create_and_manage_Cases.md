@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 3.2：在 Dynamics 365 Customer Service 中创建和管理案例'
     module: '模块 3：了解 Dynamics 365 Customer Service 的基础知识'
