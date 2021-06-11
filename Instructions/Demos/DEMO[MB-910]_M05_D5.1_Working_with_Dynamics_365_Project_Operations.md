@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '演示： 使用 Dynamics 365 Project Operations'
     module: '模块 5： 学习 Dynamics 365 Project Operations 的基础知识'
