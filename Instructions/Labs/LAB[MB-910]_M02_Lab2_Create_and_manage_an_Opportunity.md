@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 2.2： 在 Dynamics 365 Sales 中创建和管理机会'
     module: '模块 2： 学习 Dynamics 365 Sales 的基础知识'
