@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 4.3： Dynamics 365 现场服务巅峰课程实验室'
     module: '模块 4： 学习 Dynamics 365 Field Service 的基础知识'
