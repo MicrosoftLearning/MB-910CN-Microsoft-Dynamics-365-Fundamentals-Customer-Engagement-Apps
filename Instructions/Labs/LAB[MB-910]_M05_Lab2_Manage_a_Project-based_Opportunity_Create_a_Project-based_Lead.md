@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 5.2： 管理基于项目的机会'
     module: '模块 5： 学习 Dynamics 365 Project Operations 的基础知识'
