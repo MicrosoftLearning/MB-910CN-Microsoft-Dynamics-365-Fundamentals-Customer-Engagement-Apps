@@ -10,7 +10,7 @@ demo:
 
 Dynamics 365 Sales Insights 是一套人工智能工具，可帮助组织更好地了解客户、主动管理和开展销售活动，并更有效地定位销售机会。 
 
-。使用 Sales Insights 维护健康的关系
+使用 Sales Insights 维护健康的关系
 
 - 管理帐户关系的健康状况
 
