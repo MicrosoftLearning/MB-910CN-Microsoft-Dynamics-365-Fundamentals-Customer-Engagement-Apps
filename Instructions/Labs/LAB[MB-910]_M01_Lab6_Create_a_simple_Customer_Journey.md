@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 1.6： 创建简单的客户旅程'
     module: '模块 1： 学习 Dynamics 365 Marketing 的基础知识'
