@@ -34,7 +34,7 @@ lab:
 
 ### 任务 2 – 访问 Dynamics 365 应用程序
 
-1.  展开屏幕左上方位于 Power Platform 管理中心左侧的“应用启动器”domino 按钮。**选择“Dynamics 365 **Marketing”**应用，启动它。
+1.  展开屏幕左上方位于 Power Platform 管理中心左侧的“应用启动器”domino 按钮。选择“Dynamics 365 **Marketing”**应用，启动它。
 
 2.  浏览左侧的导航窗格。可通过该窗格底部的按钮更改区域。你当前位于 **“市场营销”** 区域。 
 

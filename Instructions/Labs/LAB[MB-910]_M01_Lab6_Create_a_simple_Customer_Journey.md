@@ -19,7 +19,7 @@ lab:
 
 ## 说明
 
-**备注：**无法在 Internet Explorer 中创建或编辑营销电子邮件。请使用 Microsoft Edge 或 Google Chrome 完成本练习。
+**备注：** 无法在 Internet Explorer 中创建或编辑营销电子邮件。请使用 Microsoft Edge 或 Google Chrome 完成本练习。
 
 **备注：** 在创建客户旅程之前，我们需要确保拥有可添加到客户旅程中的有效电子邮件。 
 
