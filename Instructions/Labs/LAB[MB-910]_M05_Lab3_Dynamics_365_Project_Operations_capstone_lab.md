@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '实验室 5.3： Dynamics 365 项目操作巅峰课程实验室'
     module: '模块 5： 学习 Dynamics 365 Project Operations 的基础知识'
